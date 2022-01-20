@@ -2,6 +2,7 @@
     "name": "greypastry-dark-theme",
     "displayName": "Papadaiyas Grey Pastry",
     "description": "A smooth experience",
+    "publisher": "Papadaiya",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
