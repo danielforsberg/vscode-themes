@@ -1,7 +1,7 @@
 {
-    "name": "greypastry",
-    "displayName": "GreyPastry",
-    "description": "",
+    "name": "greypastry-dark-theme",
+    "displayName": "Papadaiyas Grey Pastry",
+    "description": "A smooth experience",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
@@ -9,10 +9,17 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "papadaiya",
+        "grey",
+        "smooth"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "GreyPastryTheme",
+                "label": "Papadaiyas Grey Pastry",
                 "uiTheme": "vs-dark",
                 "path": "./themes/GreyPastryTheme-color-theme.json"
             }
