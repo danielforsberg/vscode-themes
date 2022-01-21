@@ -2,6 +2,10 @@
 	"name": "GreyPastryTheme",
 	"type": "dark",
 	"colors": {
+		"tab.inactiveBackground": "#373737",
+		"tab.border": "#373737",
+		"titleBar.activeBackground": "#4a4a4a",
+		"statusBar.background": "#358C7F",
 		"activityBar.activeBackground": "#4A4A4A",
 		"activityBar.background": "#3e3e3e",
 		"editor.background": "#4A4A4A",
@@ -106,7 +110,6 @@
 			"scope": [
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -117,7 +120,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#d5bc91"
+				"foreground": "#D9B789"
 			}
 		},
 		{
